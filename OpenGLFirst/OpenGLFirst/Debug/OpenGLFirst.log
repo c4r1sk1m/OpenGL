@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(84): warning C4129: 'N': unrecognized character escape sequence
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(179): warning C4101: 'EBO': unreferenced local variable
+  OpenGLFirst.vcxproj -> C:\Projects\OpenGL\OpenGLFirst\Debug\OpenGLFirst.exe

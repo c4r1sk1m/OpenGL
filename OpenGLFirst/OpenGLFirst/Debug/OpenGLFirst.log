@@ -1,2 +1,11 @@
 ﻿  Main.cpp
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(284): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(301): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(329): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(330): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(334): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(335): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(336): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(337): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\projects\opengl\openglfirst\openglfirst\main.cpp(362): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   OpenGLFirst.vcxproj -> C:\Projects\OpenGL\OpenGLFirst\Debug\OpenGLFirst.exe

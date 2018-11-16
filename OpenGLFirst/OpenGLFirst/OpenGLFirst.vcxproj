@@ -126,6 +126,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Include\Shader.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="Texture.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="OpenGLFirst.rc" />

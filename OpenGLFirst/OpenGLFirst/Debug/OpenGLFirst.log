@@ -1,6 +1,1 @@
-﻿  Main.cpp
-c:\projects\opengl\openglfirst\openglfirst\main.cpp(244): warning C4101: 'xVelocity': unreferenced local variable
-c:\projects\opengl\openglfirst\openglfirst\main.cpp(244): warning C4101: 'xOffset': unreferenced local variable
-c:\projects\opengl\openglfirst\openglfirst\main.cpp(244): warning C4101: 'yVelocity': unreferenced local variable
-c:\projects\opengl\openglfirst\openglfirst\main.cpp(244): warning C4101: 'yOffset': unreferenced local variable
-  OpenGLFirst.vcxproj -> C:\Projects\OpenGL\OpenGLFirst\Debug\OpenGLFirst.exe
+﻿
